@@ -1,0 +1,29 @@
+#output{
+	height: 45px;
+	background-color: white;
+	color: black;
+	width: 100%;
+	font-size: 2em;
+	padding: 5px;
+	text-align: right;
+	margin-bottom: 25px;
+	overflow: hidden;
+}
+
+#mycalcu{
+	width: 350px;
+	background-color: dimgray;
+	height: 350px;
+	padding: 25px;
+}
+
+.cbutton{
+	font-size: 2em;
+	width: 45px;
+	margin: 4px;
+	padding: 4px; 
+}
+
+.container{
+	padding: 25px;
+}
